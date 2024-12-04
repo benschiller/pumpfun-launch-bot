@@ -1,0 +1,16 @@
+# Ignore environment files
+*.env
+
+# Ignore configuration files
+config.js
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore sensitive
+execution/
+services/
+database/
+
+# Ignore build artifacts
+dist/
